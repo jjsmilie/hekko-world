@@ -1,2 +1,2 @@
-# hekko-world
+# hello-world
 My starting repository.
